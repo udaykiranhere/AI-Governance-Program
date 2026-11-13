@@ -20,11 +20,11 @@ of a separate compliance exercise.
 
 ## Lifecycle checkpoints
 
-- **Ideation:review alignment with the governance framework
-- **Data Collection: apply the data usage policy
-- **Model Development: run bias and fairness checks
-- **Pre-Deployment: complete the audit checklist and risk assessment
-- **Post-Deployment: monitor performance, log and review incidents
+- Ideation:review alignment with the governance framework
+- Data Collection: apply the data usage policy
+- Model Development: run bias and fairness checks
+- Pre-Deployment: complete the audit checklist and risk assessment
+- Post-Deployment: monitor performance, log and review incidents
 
 ## Key design idea
 
